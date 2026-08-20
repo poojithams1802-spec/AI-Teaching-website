@@ -1,0 +1,478 @@
+CHAPTER: Real Numbers
+CLASS: 10
+SUBJECT: Mathematics
+
+TOPIC: Introduction to Real Numbers
+
+This chapter continues the study of real numbers and focuses on:
+
+1. The Fundamental Theorem of Arithmetic
+2. Prime factorisation
+3. HCF and LCM
+4. Irrational numbers
+5. Proofs of irrationality
+
+The chapter uses the Fundamental Theorem of Arithmetic to study irrational numbers and properties of rational numbers. 
+
+---
+
+TOPIC: Prime Factorisation
+
+Prime factorisation means expressing a natural or composite number
+as a product of prime numbers.
+
+Example:
+
+32760 = 2 × 2 × 2 × 3 × 3 × 5 × 7 × 13
+
+Therefore:
+
+32760 = 2³ × 3² × 5 × 7 × 13
+
+Prime factors can be written in the form of powers of primes. 
+
+---
+
+TOPIC: Fundamental Theorem of Arithmetic
+
+Every composite number can be expressed as a product of primes.
+
+This prime factorisation is unique, except for the order in which
+the prime factors occur.
+
+Example:
+
+2 × 3 × 5 × 7
+
+and
+
+3 × 5 × 7 × 2
+
+represent the same prime factorisation.
+
+Therefore:
+
+The prime factorisation of a natural number is unique,
+except for the order of its factors. 
+
+---
+
+TOPIC: General Form of Prime Factorisation
+
+A composite number can be written as:
+
+x = p₁ × p₂ × ... × pₙ
+
+where:
+
+p₁, p₂, ..., pₙ are prime numbers.
+
+When the same prime factors are combined, the number can be
+written using powers.
+
+Example:
+
+32760 = 2³ × 3² × 5 × 7 × 13 
+
+---
+
+TOPIC: Application of the Fundamental Theorem of Arithmetic
+
+The uniqueness of prime factorisation can be used to solve
+problems involving factors and divisibility.
+
+Example:
+
+Can 4ⁿ end with the digit 0 for any natural number n?
+
+4ⁿ = (2²)ⁿ = 2²ⁿ
+
+Thus, the only prime factor of 4ⁿ is 2.
+
+A number ending in 0 must be divisible by 5.
+
+Since the prime factorisation of 4ⁿ does not contain 5:
+
+4ⁿ cannot end with the digit 0 for any natural number n. 
+
+---
+
+TOPIC: HCF by Prime Factorisation
+
+The HCF is found by taking the smallest power of each
+common prime factor.
+
+Example:
+
+6 = 2¹ × 3¹
+
+20 = 2² × 5¹
+
+The common prime factor is 2.
+
+Therefore:
+
+HCF(6, 20) = 2¹ = 2
+
+HCF = Product of the smallest powers of the common
+prime factors. 
+
+---
+
+TOPIC: LCM by Prime Factorisation
+
+The LCM is found by taking the greatest power of every
+prime factor involved in the numbers.
+
+Example:
+
+6 = 2¹ × 3¹
+
+20 = 2² × 5¹
+
+Therefore:
+
+LCM(6, 20) = 2² × 3¹ × 5¹
+
+LCM(6, 20) = 60
+
+LCM = Product of the greatest powers of all the
+prime factors involved. 
+
+---
+
+TOPIC: Relation Between HCF and LCM of Two Numbers
+
+For any two positive integers a and b:
+
+HCF(a, b) × LCM(a, b) = a × b
+
+This formula can be used to find the LCM when the HCF
+of two numbers is known.
+
+Example:
+
+HCF(96, 404) = 4
+
+Therefore:
+
+LCM(96, 404) = (96 × 404) / 4
+
+LCM(96, 404) = 9696  
+
+---
+
+TOPIC: HCF and LCM of Three Numbers
+
+Example:
+
+6 = 2 × 3
+
+72 = 2³ × 3²
+
+120 = 2³ × 3 × 5
+
+For HCF, take the smallest powers of the common factors:
+
+HCF(6, 72, 120) = 2 × 3 = 6
+
+For LCM, take the greatest powers of all prime factors:
+
+LCM(6, 72, 120) = 2³ × 3² × 5
+
+LCM(6, 72, 120) = 360 
+
+---
+
+TOPIC: Important Note on Three Numbers
+
+For three positive integers:
+
+HCF(p, q, r) × LCM(p, q, r) ≠ p × q × r
+
+Therefore, the relation:
+
+HCF × LCM = Product of the numbers
+
+is valid for two positive integers, but not generally in the same
+form for three numbers. 
+
+---
+
+TOPIC: Irrational Number
+
+A number is called irrational if it cannot be written in the form:
+
+p/q
+
+where:
+
+p and q are integers
+
+q ≠ 0
+
+Examples of irrational numbers include:
+
+√2
+
+√3
+
+√5
+
+π
+
+Irrational numbers, together with rational numbers, form the
+set of real numbers. 
+
+---
+
+TOPIC: Theorem on Prime Divisibility
+
+If p is a prime number and p divides a², then p divides a,
+where a is a positive integer.
+
+Mathematically:
+
+If p | a², then p | a
+
+This result follows from the Fundamental Theorem of Arithmetic
+and the uniqueness of prime factorisation.  
+
+---
+
+TOPIC: Proof by Contradiction
+
+Proof by contradiction is a technique in which we:
+
+1. Assume that the statement is false or assume the opposite.
+2. Use this assumption to derive a contradiction.
+3. Conclude that the original assumption was incorrect.
+4. Therefore, the required statement is true.
+
+This method is used in the chapter to prove that numbers such as
+√2 and √3 are irrational. 
+
+---
+
+TOPIC: Proof that √2 is Irrational
+
+Assume that √2 is rational.
+
+Then:
+
+√2 = a/b
+
+where a and b are coprime integers and b ≠ 0.
+
+Squaring both sides:
+
+2 = a²/b²
+
+Therefore:
+
+a² = 2b²
+
+Thus, 2 divides a².
+
+By the prime divisibility theorem:
+
+2 divides a
+
+Therefore:
+
+a = 2c
+
+for some integer c.
+
+Substituting:
+
+2b² = 4c²
+
+Therefore:
+
+b² = 2c²
+
+Thus, 2 divides b², and hence 2 divides b.
+
+Therefore, both a and b have 2 as a common factor.
+
+This contradicts the assumption that a and b are coprime.
+
+Hence:
+
+√2 is irrational. 
+
+---
+
+TOPIC: Proof that √3 is Irrational
+
+Assume that √3 is rational.
+
+Then:
+
+√3 = a/b
+
+where a and b are coprime.
+
+Squaring both sides:
+
+3b² = a²
+
+Therefore, 3 divides a².
+
+By the prime divisibility theorem:
+
+3 divides a
+
+So:
+
+a = 3c
+
+for some integer c.
+
+Substituting:
+
+3b² = 9c²
+
+Therefore:
+
+b² = 3c²
+
+Thus, 3 divides b² and hence 3 divides b.
+
+Therefore, both a and b have 3 as a common factor.
+
+This contradicts the fact that a and b are coprime.
+
+Hence:
+
+√3 is irrational.  
+
+---
+
+TOPIC: Sum or Difference of Rational and Irrational Numbers
+
+The chapter states that:
+
+The sum or difference of a rational number and an irrational number
+is irrational.
+
+Example:
+
+√5 − √3
+
+Assume:
+
+√5 − √3
+
+is rational.
+
+Then, after rearranging:
+
+√3 = √5 − a/b
+
+The right-hand side would be rational.
+
+This would imply that √3 is rational, which is a contradiction.
+
+Therefore:
+
+√5 − √3 is irrational. 
+
+---
+
+TOPIC: Product of a Non-Zero Rational Number and an Irrational Number
+
+The chapter states that the product of a non-zero rational number
+and an irrational number is irrational.
+
+Example:
+
+3√2
+
+Assume that:
+
+3√2
+
+is rational.
+
+Then:
+
+√2 = a/(3b)
+
+This would make √2 rational.
+
+But √2 is irrational.
+
+This is a contradiction.
+
+Therefore:
+
+3√2 is irrational. 
+
+---
+
+TOPIC: Important Irrational Numbers
+
+The chapter proves or uses the irrationality of:
+
+√2
+
+√3
+
+√5
+
+It also gives exercises involving other irrational expressions,
+such as:
+
+1/√2
+
+7√5
+
+6 + √2
+
+3 + 2√5 
+
+---
+
+TOPIC: Chapter Summary
+
+**Fundamental Theorem of Arithmetic:**
+
+Every composite number can be expressed as a product of primes,
+and this factorisation is unique apart from the order of the
+prime factors.
+
+**Prime Divisibility Theorem:**
+
+If p is a prime number and p divides a², then p divides a.
+
+**HCF of Two Numbers:**
+
+Product of the smallest powers of the common prime factors.
+
+**LCM of Numbers:**
+
+Product of the greatest powers of all prime factors involved.
+
+**Relation for Two Numbers:**
+
+HCF(a, b) × LCM(a, b) = a × b
+
+**Irrational Number:**
+
+A number that cannot be written in the form p/q, where p and q
+are integers and q ≠ 0.
+
+**Proof by Contradiction:**
+
+A method in which an opposite assumption is shown to lead to
+a contradiction.
+
+**Important Results:**
+
+√2 is irrational.
+
+√3 is irrational.
+
+√5 is irrational. 

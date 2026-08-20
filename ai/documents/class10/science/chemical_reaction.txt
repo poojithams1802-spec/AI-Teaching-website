@@ -1,0 +1,544 @@
+CHAPTER: Chemical Reactions and Equations
+CLASS: 10
+SUBJECT: Science
+
+The PDF covers **Chemical Reactions and Equations**, including chemical equations, balancing, types of reactions, oxidation, reduction, corrosion and rancidity. 
+
+---
+
+TOPIC: Chemical Reaction
+
+A chemical reaction takes place when the nature and identity of
+one or more substances change, resulting in the formation of new
+substances.
+
+Signs that a chemical reaction has taken place include:
+
+1. Change in state
+2. Change in colour
+3. Evolution of a gas
+4. Change in temperature
+
+Examples:
+
+1. Milk left at room temperature during summer changes.
+2. Iron exposed to a humid atmosphere undergoes rusting.
+3. Grapes undergo fermentation.
+4. Food is cooked and digested.
+5. Respiration takes place in our body.  
+
+---
+
+TOPIC: Chemical Equation
+
+A chemical equation represents a chemical reaction using
+chemical symbols and chemical formulae.
+
+Example:
+
+Magnesium + Oxygen → Magnesium oxide
+
+Mg + O₂ → MgO
+
+The substances that undergo chemical change are called
+**reactants**.
+
+The new substances formed are called **products**.
+
+Reactants are written on the left-hand side (LHS).
+
+Products are written on the right-hand side (RHS).
+
+An arrow (→) shows the direction in which reactants change
+into products. 
+
+---
+
+TOPIC: Word Equation
+
+A word equation represents a chemical reaction using the names
+of the reactants and products.
+
+Example:
+
+Magnesium + Oxygen → Magnesium oxide
+
+Reactants → Products
+
+---
+
+TOPIC: Skeletal Chemical Equation
+
+A chemical equation in which the number of atoms of each
+element is not the same on both sides is called an
+**unbalanced or skeletal chemical equation**.
+
+Example:
+
+Mg + O₂ → MgO
+
+This equation is unbalanced because the number of oxygen atoms
+is different on the two sides. 
+
+---
+
+TOPIC: Balanced Chemical Equation
+
+A chemical equation in which the number of atoms of every
+element is the same on both the reactant side and product side
+is called a balanced chemical equation.
+
+Chemical equations must be balanced according to the
+**law of conservation of mass**.
+
+Mass can neither be created nor destroyed in a chemical reaction.
+
+Example:
+
+2Mg + O₂ → 2MgO
+
+---
+
+TOPIC: Law of Conservation of Mass
+
+The total mass of the elements present in the products must be
+equal to the total mass of the elements present in the reactants.
+
+Therefore, the number of atoms of each element remains the same
+before and after a chemical reaction. 
+
+---
+
+TOPIC: Balancing Chemical Equations
+
+Chemical equations are balanced by using coefficients.
+
+While balancing an equation:
+
+1. Do not change the chemical formula of a substance.
+2. Change only the coefficients placed before the formulae.
+3. Use the smallest whole-number coefficients.
+4. Finally, count the atoms on both sides to check the equation.
+
+Example:
+
+Unbalanced equation:
+
+Fe + H₂O → Fe₃O₄ + H₂
+
+Balanced equation:
+
+3Fe + 4H₂O → Fe₃O₄ + 4H₂
+
+This method is called the **hit-and-trial method**.  
+
+---
+
+TOPIC: Physical State Symbols in Chemical Equations
+
+Physical states can be represented along with chemical formulae.
+
+(s) = Solid
+
+(l) = Liquid
+
+(g) = Gas
+
+(aq) = Aqueous solution, meaning dissolved in water
+
+Example:
+
+3Fe(s) + 4H₂O(g) → Fe₃O₄(s) + 4H₂(g)
+
+Reaction conditions such as temperature, pressure and catalysts
+may also be written above or below the reaction arrow. 
+
+---
+
+TOPIC: Types of Chemical Reactions
+
+The major types of chemical reactions discussed are:
+
+1. Combination Reaction
+2. Decomposition Reaction
+3. Displacement Reaction
+4. Double Displacement Reaction
+5. Oxidation and Reduction Reactions
+
+Chemical reactions involve the breaking and making of bonds
+between atoms to produce new substances. 
+
+---
+
+TOPIC: Combination Reaction
+
+A reaction in which two or more substances combine to form a
+single product is called a combination reaction.
+
+General form:
+
+A + B → AB
+
+Example:
+
+CaO + H₂O → Ca(OH)₂ + Heat
+
+Calcium oxide + Water → Calcium hydroxide
+
+Another example:
+
+C + O₂ → CO₂
+
+Another example:
+
+2H₂ + O₂ → 2H₂O
+
+ 
+
+---
+
+TOPIC: Exothermic Reaction
+
+A reaction in which heat is released along with the formation of
+products is called an exothermic reaction.
+
+Examples:
+
+1. Burning of natural gas
+
+CH₄ + 2O₂ → CO₂ + 2H₂O
+
+2. Respiration
+
+C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O + Energy
+
+3. Decomposition of vegetable matter into compost
+
+In an exothermic reaction, the reaction mixture may become warm. 
+
+---
+
+TOPIC: Respiration as an Exothermic Reaction
+
+During respiration, glucose combines with oxygen in the cells
+of our body and releases energy.
+
+Equation:
+
+C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O + Energy
+
+Therefore, respiration is an exothermic process.
+
+---
+
+TOPIC: Whitewashing Reaction
+
+Calcium oxide reacts with water to form slaked lime.
+
+CaO + H₂O → Ca(OH)₂
+
+Slaked lime reacts slowly with carbon dioxide in air to form
+calcium carbonate.
+
+Ca(OH)₂ + CO₂ → CaCO₃ + H₂O
+
+Calcium carbonate forms a thin layer on the walls and gives
+them a shiny finish. 
+
+---
+
+TOPIC: Decomposition Reaction
+
+A reaction in which a single reactant breaks down to form two
+or more simpler products is called a decomposition reaction.
+
+General form:
+
+AB → A + B
+
+Decomposition reactions are the opposite of combination
+reactions.
+
+
+
+---
+
+TOPIC: Thermal Decomposition Reaction
+
+A decomposition reaction caused by heating is called a thermal
+decomposition reaction.
+
+Example:
+
+2FeSO₄ → Fe₂O₃ + SO₂ + SO₃
+
+Another example:
+
+CaCO₃ → CaO + CO₂
+
+Here, calcium carbonate decomposes on heating to form calcium
+oxide and carbon dioxide.
+
+Calcium oxide is also called quick lime. 
+
+---
+
+TOPIC: Decomposition by Electricity
+
+Some decomposition reactions take place when electrical energy
+is supplied.
+
+Example:
+
+Water decomposes into hydrogen and oxygen during electrolysis.
+
+2H₂O → 2H₂ + O₂
+
+The decomposition requires electrical energy.
+
+---
+
+TOPIC: Decomposition by Light
+
+Some compounds decompose when exposed to sunlight.
+
+Example:
+
+2AgCl → 2Ag + Cl₂
+
+White silver chloride turns grey because silver metal is formed.
+
+Another example:
+
+2AgBr → 2Ag + Br₂
+
+These reactions are used in black-and-white photography.  
+
+---
+
+TOPIC: Endothermic Reaction
+
+A reaction in which energy is absorbed is called an
+endothermic reaction.
+
+Decomposition reactions generally require energy in the form of:
+
+1. Heat
+2. Light
+3. Electricity
+
+Examples include decomposition reactions caused by heating,
+sunlight and electrolysis. 
+
+---
+
+TOPIC: Displacement Reaction
+
+A reaction in which a more reactive element displaces another
+element from its compound is called a displacement reaction.
+
+General form:
+
+A + BC → AC + B
+
+Example:
+
+Fe + CuSO₄ → FeSO₄ + Cu
+
+Iron displaces copper from copper sulphate solution.
+
+Other examples:
+
+Zn + CuSO₄ → ZnSO₄ + Cu
+
+Pb + CuCl₂ → PbCl₂ + Cu
+
+Zinc and lead are more reactive than copper and can displace it
+from its compounds. 
+
+---
+
+TOPIC: Double Displacement Reaction
+
+A reaction in which ions or groups of atoms are exchanged
+between two reactants is called a double displacement reaction.
+
+General form:
+
+AB + CD → AD + CB
+
+Example:
+
+Na₂SO₄ + BaCl₂ → BaSO₄ + 2NaCl
+
+Here, barium sulphate is formed as an insoluble solid. 
+
+---
+
+TOPIC: Precipitation Reaction
+
+A reaction that produces an insoluble substance called a
+precipitate is known as a precipitation reaction.
+
+Example:
+
+Na₂SO₄(aq) + BaCl₂(aq) → BaSO₄(s) + 2NaCl(aq)
+
+Barium sulphate is an insoluble white precipitate. 
+
+---
+
+TOPIC: Oxidation
+
+A substance is said to be oxidised when it:
+
+1. Gains oxygen, or
+2. Loses hydrogen
+
+Example:
+
+2Cu + O₂ → 2CuO
+
+Copper gains oxygen and is therefore oxidised.
+
+Another example:
+
+CuO + H₂ → Cu + H₂O
+
+In this reaction, hydrogen gains oxygen and is oxidised.  
+
+---
+
+TOPIC: Reduction
+
+A substance is said to be reduced when it:
+
+1. Loses oxygen, or
+2. Gains hydrogen
+
+Example:
+
+CuO + H₂ → Cu + H₂O
+
+Copper oxide loses oxygen and is therefore reduced.
+
+---
+
+TOPIC: Redox Reaction
+
+A reaction in which oxidation and reduction occur
+simultaneously is called an oxidation-reduction reaction or
+a redox reaction.
+
+Example:
+
+CuO + H₂ → Cu + H₂O
+
+CuO is reduced to Cu.
+
+H₂ is oxidised to H₂O.
+
+Therefore, oxidation and reduction occur together. 
+
+---
+
+TOPIC: Corrosion
+
+When a metal is attacked by substances in its surroundings,
+such as moisture and acids, the process is called corrosion.
+
+Examples:
+
+1. Rusting of iron
+2. Black coating on silver
+3. Green coating on copper
+
+Corrosion damages objects such as:
+
+* Car bodies
+* Bridges
+* Iron railings
+* Ships
+* Other metal objects
+
+
+
+---
+
+TOPIC: Rusting
+
+Rusting is the corrosion of iron.
+
+Iron articles may develop a reddish-brown coating when left
+exposed to suitable surroundings for some time.
+
+This coating is commonly called rust. 
+
+---
+
+TOPIC: Rancidity
+
+When fats and oils are oxidised, they become rancid.
+
+Their smell and taste change.
+
+Rancidity can be slowed down by:
+
+1. Adding antioxidants to food.
+2. Keeping food in airtight containers.
+3. Flushing packets containing fats and oils with nitrogen.
+
+Nitrogen is used in packets such as chips to prevent oxidation. 
+
+---
+
+## IMPORTANT SUMMARY
+
+**Chemical Reaction:**
+A process in which the nature and identity of substances change,
+forming new substances.
+
+**Chemical Equation:**
+A symbolic representation of a chemical reaction.
+
+**Balanced Chemical Equation:**
+An equation in which the number of atoms of each element is the
+same on both sides.
+
+**Combination Reaction:**
+Two or more substances combine to form one product.
+
+**Decomposition Reaction:**
+One substance breaks down to form two or more substances.
+
+**Exothermic Reaction:**
+A reaction that releases heat or energy.
+
+**Endothermic Reaction:**
+A reaction that absorbs energy.
+
+**Displacement Reaction:**
+A more reactive element displaces another element from its
+compound.
+
+**Double Displacement Reaction:**
+Ions or groups of atoms are exchanged between reactants.
+
+**Precipitation Reaction:**
+A reaction that produces an insoluble salt or precipitate.
+
+**Oxidation:**
+Gain of oxygen or loss of hydrogen.
+
+**Reduction:**
+Loss of oxygen or gain of hydrogen.
+
+**Redox Reaction:**
+Oxidation and reduction occur simultaneously.
+
+**Corrosion:**
+Damage to a metal due to substances such as moisture or acids.
+
+**Rancidity:**
+Oxidation of fats and oils, causing changes in their smell and
+taste. 

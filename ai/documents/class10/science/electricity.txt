@@ -1,0 +1,822 @@
+CHAPTER: Electricity
+CLASS: 10
+SUBJECT: Science
+
+TOPIC: Electric Current
+
+Electric current is the flow of electric charges through a conductor.
+
+In metallic conductors, electric current is produced by the flow of
+electrons.
+
+A continuous and closed path through which electric current flows is
+called an electric circuit.
+
+Conventionally, the direction of electric current is taken as opposite
+to the direction of flow of electrons.
+
+Formula:
+
+I = Q/t
+
+Where:
+
+I = Electric current
+
+Q = Electric charge
+
+t = Time
+
+SI Unit:
+
+Ampere (A)
+
+1 A = 1 C/s
+
+Small units:
+
+1 mA = 10⁻³ A
+
+1 μA = 10⁻⁶ A
+
+An instrument used to measure electric current is called an
+ammeter.
+
+An ammeter is always connected in series in a circuit.  
+
+---
+
+TOPIC: Electric Circuit
+
+An electric circuit is a continuous and closed path through which
+electric current flows.
+
+A basic electric circuit may contain:
+
+1. Cell or battery
+2. Connecting wires
+3. Switch or plug key
+4. Electrical component such as a bulb or resistor
+
+If the circuit is broken, current stops flowing.
+
+A switch is used to complete or break an electric circuit. 
+
+---
+
+TOPIC: Electric Charge
+
+Electric charge is a property of matter responsible for electrical
+effects.
+
+The SI unit of electric charge is coulomb (C).
+
+One coulomb of charge contains approximately:
+
+6 × 10¹⁸ electrons
+
+Charge on one electron:
+
+1.6 × 10⁻¹⁹ C
+
+Example:
+
+If:
+
+I = 0.5 A
+
+t = 10 minutes = 600 s
+
+Then:
+
+Q = It
+
+Q = 0.5 × 600
+
+Q = 300 C  
+
+---
+
+TOPIC: Electric Potential Difference
+
+Electric charges flow through a conductor when there is a difference
+in electric potential between two points.
+
+A cell or battery produces this potential difference.
+
+Potential difference is defined as the work done in moving a unit
+charge from one point to another.
+
+Formula:
+
+V = W/Q
+
+Where:
+
+V = Potential difference
+
+W = Work done
+
+Q = Charge
+
+SI Unit:
+
+Volt (V)
+
+1 V = 1 J/C
+
+One volt is the potential difference when 1 joule of work is done
+to move 1 coulomb of charge.
+
+A voltmeter is used to measure potential difference.
+
+A voltmeter is always connected in parallel. 
+
+---
+
+TOPIC: Work Done in an Electric Circuit
+
+From the formula:
+
+V = W/Q
+
+Therefore:
+
+W = VQ
+
+Where:
+
+W = Work done in joule
+
+V = Potential difference in volt
+
+Q = Charge in coulomb
+
+Example:
+
+V = 12 V
+
+Q = 2 C
+
+W = VQ
+
+W = 12 × 2
+
+W = 24 J 
+
+---
+
+TOPIC: Circuit Diagram
+
+A circuit diagram is a schematic representation of an electric circuit
+using standard symbols.
+
+Common electrical components represented in circuit diagrams include:
+
+1. Electric cell
+2. Battery
+3. Open switch
+4. Closed switch
+5. Wire joint
+6. Wires crossing without joining
+7. Electric bulb
+8. Resistor
+9. Variable resistance or rheostat
+10. Ammeter
+11. Voltmeter
+
+Standard symbols make complicated circuits easier to represent and
+understand.  
+
+---
+
+TOPIC: Ohm's Law
+
+Ohm's law states that the potential difference across the ends of a
+metallic conductor is directly proportional to the current flowing
+through it, provided its temperature remains constant.
+
+Therefore:
+
+V ∝ I
+
+V/I = Constant
+
+The constant is called resistance.
+
+Formula:
+
+V = IR
+
+Where:
+
+V = Potential difference
+
+I = Current
+
+R = Resistance
+
+The V-I graph for a conductor obeying Ohm's law is a straight line
+passing through the origin. 
+
+---
+
+TOPIC: Resistance
+
+Resistance is the property of a conductor by which it opposes or
+resists the flow of electric charges.
+
+Formula:
+
+R = V/I
+
+Also:
+
+I = V/R
+
+SI Unit:
+
+Ohm (Ω)
+
+One ohm is the resistance of a conductor when a potential difference
+of 1 V produces a current of 1 A.
+
+Therefore:
+
+1 Ω = 1 V/A
+
+For a constant potential difference:
+
+Current is inversely proportional to resistance.
+
+If resistance increases, current decreases. 
+
+---
+
+TOPIC: Rheostat
+
+A rheostat is a device used to change or regulate the resistance in
+an electric circuit.
+
+It can be used to increase or decrease the current without changing
+the voltage source.
+
+A rheostat is also called a variable resistance. 
+
+---
+
+TOPIC: Factors Affecting Resistance
+
+The resistance of a conductor depends on:
+
+1. Length of the conductor
+2. Area of cross-section of the conductor
+3. Nature or material of the conductor
+4. Temperature
+
+Resistance is directly proportional to length:
+
+R ∝ l
+
+Resistance is inversely proportional to area of cross-section:
+
+R ∝ 1/A
+
+Combining both:
+
+R ∝ l/A
+
+Therefore:
+
+R = ρl/A
+
+Where:
+
+R = Resistance
+
+ρ = Resistivity of the material
+
+l = Length of the conductor
+
+A = Area of cross-section
+
+A longer wire has greater resistance.
+
+A thicker wire has lower resistance than a thinner wire of the same
+material and length. 
+
+---
+
+TOPIC: Resistivity
+
+Resistivity is a characteristic property of a material that determines
+how strongly the material opposes the flow of electric current.
+
+Formula:
+
+ρ = RA/l
+
+SI Unit:
+
+Ohm metre (Ω m)
+
+Resistivity depends on:
+
+1. Nature of the material
+2. Temperature
+
+It does not depend on the length or thickness of a particular sample
+of the material.
+
+Metals generally have low resistivity and are good conductors.
+
+Insulators such as rubber and glass have very high resistivity. 
+
+---
+
+TOPIC: Uses of Different Materials in Electrical Devices
+
+Alloys generally have higher resistivity than their constituent metals.
+
+They also do not oxidise easily at high temperatures.
+
+Therefore, alloys are used in heating devices such as:
+
+1. Electric irons
+2. Toasters
+3. Electric heaters
+
+Tungsten is used in electric bulb filaments because it can withstand
+very high temperatures.
+
+Copper and aluminium are used for electrical transmission lines
+because they have low resistivity and are good conductors. 
+
+---
+
+TOPIC: Resistance in Series
+
+When resistors are connected end to end, they are said to be
+connected in series.
+
+In a series circuit:
+
+The same current flows through every resistor.
+
+The total potential difference is equal to the sum of the potential
+differences across individual resistors.
+
+Formula:
+
+V = V₁ + V₂ + V₃
+
+The equivalent resistance is:
+
+Rₛ = R₁ + R₂ + R₃
+
+For more resistors:
+
+Rₛ = R₁ + R₂ + R₃ + ...
+
+The equivalent resistance in a series combination is greater than any
+individual resistance.   
+
+---
+
+TOPIC: Example of Resistors in Series
+
+Given:
+
+R₁ = 20 Ω
+
+R₂ = 4 Ω
+
+V = 6 V
+
+Total resistance:
+
+Rₛ = R₁ + R₂
+
+Rₛ = 20 + 4
+
+Rₛ = 24 Ω
+
+Current:
+
+I = V/Rₛ
+
+I = 6/24
+
+I = 0.25 A
+
+Potential difference across the first resistor:
+
+V₁ = IR₁
+
+V₁ = 0.25 × 20
+
+V₁ = 5 V
+
+Potential difference across the second resistor:
+
+V₂ = IR₂
+
+V₂ = 0.25 × 4
+
+V₂ = 1 V
+
+Therefore:
+
+V = V₁ + V₂
+
+6 V = 5 V + 1 V  
+
+---
+
+TOPIC: Resistance in Parallel
+
+When resistors are connected between the same two points, they are
+said to be connected in parallel.
+
+In a parallel circuit:
+
+The potential difference across every resistor is the same.
+
+The total current is equal to the sum of currents through the
+individual branches.
+
+Formula:
+
+I = I₁ + I₂ + I₃
+
+The equivalent resistance is given by:
+
+1/Rₚ = 1/R₁ + 1/R₂ + 1/R₃
+
+For more resistors:
+
+1/Rₚ = 1/R₁ + 1/R₂ + 1/R₃ + ...
+
+The equivalent resistance of a parallel combination is less than the
+smallest individual resistance.  
+
+---
+
+TOPIC: Example of Resistors in Parallel
+
+Given:
+
+R₁ = 5 Ω
+
+R₂ = 10 Ω
+
+R₃ = 30 Ω
+
+V = 12 V
+
+Current through R₁:
+
+I₁ = V/R₁
+
+I₁ = 12/5
+
+I₁ = 2.4 A
+
+Current through R₂:
+
+I₂ = 12/10
+
+I₂ = 1.2 A
+
+Current through R₃:
+
+I₃ = 12/30
+
+I₃ = 0.4 A
+
+Total current:
+
+I = I₁ + I₂ + I₃
+
+I = 2.4 + 1.2 + 0.4
+
+I = 4 A
+
+Equivalent resistance:
+
+1/Rₚ = 1/5 + 1/10 + 1/30
+
+Rₚ = 3 Ω  
+
+---
+
+TOPIC: Series and Parallel Circuits
+
+In a series circuit:
+
+1. Current is the same throughout the circuit.
+2. If one component fails, the complete circuit breaks.
+3. Different appliances cannot operate independently.
+
+In a parallel circuit:
+
+1. The potential difference across each appliance is the same.
+2. Current divides among different branches.
+3. Appliances can operate independently.
+4. Failure of one appliance does not stop the others.
+5. Different appliances can receive the current they require.
+
+Therefore, domestic electrical circuits use parallel connections. 
+
+---
+
+TOPIC: Heating Effect of Electric Current
+
+When electric current flows through a resistor, electrical energy may be
+converted into heat.
+
+This phenomenon is called the heating effect of electric current.
+
+In a purely resistive circuit, electrical energy is dissipated completely
+as heat.
+
+The heating effect is used in devices such as:
+
+1. Electric heater
+2. Electric iron
+3. Electric toaster
+4. Electric kettle
+5. Electric oven
+
+Electrical power supplied to a circuit is:
+
+P = VI
+
+Energy supplied in time t is:
+
+W = Pt
+
+Therefore:
+
+W = VIt
+
+The heat produced in a resistor is:
+
+H = VIt 
+
+---
+
+TOPIC: Joule's Law of Heating
+
+According to Joule's law of heating:
+
+H = I²Rt
+
+Where:
+
+H = Heat produced
+
+I = Current
+
+R = Resistance
+
+t = Time
+
+Heat produced is:
+
+1. Directly proportional to the square of current.
+2. Directly proportional to resistance.
+3. Directly proportional to the time for which current flows.
+
+Important formulas:
+
+H = VIt
+
+H = I²Rt
+
+Using Ohm's law, another form is:
+
+H = V²t/R 
+
+---
+
+TOPIC: Applications of Heating Effect
+
+The heating effect of electric current is used in:
+
+1. Electric iron
+2. Electric toaster
+3. Electric oven
+4. Electric kettle
+5. Electric heater
+6. Electric bulb
+7. Electric fuse
+
+In an electric bulb, the filament becomes extremely hot and produces
+light.
+
+Tungsten is used for the filament because it has a very high melting
+point.
+
+Bulbs are generally filled with inactive gases such as nitrogen and
+argon to increase the life of the filament. 
+
+---
+
+TOPIC: Electric Fuse
+
+A fuse is a safety device that protects electrical circuits and appliances
+from excessively high current.
+
+A fuse is connected in series with the circuit.
+
+It contains a wire made of a material or alloy with an appropriate
+melting point.
+
+When excessive current flows:
+
+1. The fuse wire becomes hot.
+2. The wire melts.
+3. The circuit breaks.
+4. The appliance is protected.
+
+Common domestic fuse ratings include:
+
+1 A
+
+2 A
+
+3 A
+
+5 A
+
+10 A
+
+Example:
+
+For an electric iron of power 1000 W operating at 220 V:
+
+I = P/V
+
+I = 1000/220
+
+I = 4.54 A
+
+Therefore, a 5 A fuse is suitable. 
+
+---
+
+TOPIC: Electric Power
+
+Electric power is the rate at which electrical energy is consumed or
+dissipated.
+
+Formula:
+
+P = VI
+
+Using Ohm's law:
+
+P = I²R
+
+Also:
+
+P = V²/R
+
+Where:
+
+P = Electric power
+
+V = Potential difference
+
+I = Current
+
+R = Resistance
+
+SI Unit:
+
+Watt (W)
+
+1 W = 1 V × 1 A
+
+One watt is the power consumed when a current of 1 A flows at a
+potential difference of 1 V.
+
+Larger unit:
+
+1 kW = 1000 W 
+
+---
+
+TOPIC: Electrical Energy
+
+Electrical energy is calculated as:
+
+Electrical Energy = Power × Time
+
+Formula:
+
+E = Pt
+
+The SI unit of energy is joule (J).
+
+The commercial unit of electrical energy is kilowatt-hour (kWh).
+
+One kilowatt-hour is commonly called one unit of electricity.
+
+Conversion:
+
+1 kWh = 3.6 × 10⁶ J
+
+Example:
+
+If a refrigerator of power 400 W operates for 8 hours per day for
+30 days:
+
+Energy = Power × Time
+
+Energy = 400 × 8 × 30
+
+Energy = 96000 Wh
+
+Energy = 96 kWh
+
+If electricity costs Rs 3 per kWh:
+
+Cost = 96 × 3
+
+Cost = Rs 288  
+
+---
+
+TOPIC: Important Formula Summary
+
+Electric Current:
+
+I = Q/t
+
+Electric Charge:
+
+Q = It
+
+Potential Difference:
+
+V = W/Q
+
+Work Done:
+
+W = VQ
+
+Ohm's Law:
+
+V = IR
+
+Resistance:
+
+R = V/I
+
+Current:
+
+I = V/R
+
+Resistance of a Conductor:
+
+R = ρl/A
+
+Resistivity:
+
+ρ = RA/l
+
+Resistance in Series:
+
+Rₛ = R₁ + R₂ + R₃ + ...
+
+Resistance in Parallel:
+
+1/Rₚ = 1/R₁ + 1/R₂ + 1/R₃ + ...
+
+Electric Power:
+
+P = VI
+
+P = I²R
+
+P = V²/R
+
+Electrical Energy:
+
+E = Pt
+
+E = VIt
+
+Heat Produced:
+
+H = VIt
+
+H = I²Rt
+
+H = V²t/R
+
+Commercial Unit:
+
+1 kWh = 3.6 × 10⁶ J 
