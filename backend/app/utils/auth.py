@@ -1,6 +1,8 @@
+import os
 import hashlib
 from datetime import datetime, timedelta, timezone
 
+from dotenv import load_dotenv
 from jose import jwt, JWTError
 from passlib.context import CryptContext
 
@@ -8,14 +10,17 @@ from fastapi import Depends, HTTPException, status
 from fastapi.security import HTTPBearer, HTTPAuthorizationCredentials
 
 
+load_dotenv()
+
+SECRET_KEY = os.getenv("SECRET_KEY")
+ALGORITHM = "HS256"
+ACCESS_TOKEN_EXPIRE_MINUTES = 60
+
+
 pwd_context = CryptContext(
     schemes=["bcrypt"],
     deprecated="auto"
 )
-
-SECRET_KEY = "change-this-secret-key-later"
-ALGORITHM = "HS256"
-ACCESS_TOKEN_EXPIRE_MINUTES = 60
 
 security = HTTPBearer()
 

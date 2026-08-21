@@ -4,7 +4,7 @@ from pydantic import BaseModel
 
 from app.database import get_db
 from app.models.user import User
-from backend.app.utils.auth import (
+from app.utils.auth import (
     hash_password,
     verify_password,
     create_access_token,
@@ -98,6 +98,8 @@ def login_user(
         "name": user.name,
         "email": user.email
     }
+
+
 @router.get("/me")
 def get_my_profile(
     user_id: int = Depends(get_current_user),
