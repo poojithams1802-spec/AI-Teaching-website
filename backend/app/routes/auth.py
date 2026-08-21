@@ -4,7 +4,7 @@ from pydantic import BaseModel
 
 from app.database import get_db
 from app.models.user import User
-from app.utils.security import (
+from backend.app.utils.auth import (
     hash_password,
     verify_password,
     create_access_token,
